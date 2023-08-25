@@ -52,7 +52,7 @@ class _LoginPageState extends State<LoginPage> {
                   height: 20.0,
                 ),
                 Text(
-                  "Sanjeev randi  $name",
+                  "Instagram  $name",
                   style: TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.bold,
